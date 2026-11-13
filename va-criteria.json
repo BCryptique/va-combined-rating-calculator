@@ -1,0 +1,63 @@
+{
+  "source": "https://www.ecfr.gov/current/title-38/section-4.71a",
+  "read": "November 12, 2026 (eCFR text current through November 9, 2026)",
+  "groups": [
+    {"group": "Foot", "items": [
+      {"dc": "5284", "name": "Foot injury, other (fits an injury that healed badly)", "levels": [
+        [30, "Severe"], [20, "Moderately severe"], [10, "Moderate"]],
+        "note": "With actual loss of use of the foot, VA rates 40 percent. The rule does not define moderate, moderately severe, or severe. The examiner and VA decide."},
+      {"dc": "5283", "name": "Tarsal or metatarsal bones, malunion or nonunion (a bone that healed out of line, or did not heal)", "levels": [
+        [30, "Severe"], [20, "Moderately severe"], [10, "Moderate"]],
+        "note": "With actual loss of use of the foot, VA rates 40 percent."},
+      {"dc": "5276", "name": "Flatfoot, acquired", "levels": [
+        [50, "Pronounced, both feet: marked pronation, extreme tenderness of the soles, marked inward displacement and severe spasm of the Achilles tendon, not improved by orthopedic shoes or appliances"],
+        [30, "Pronounced, one foot. Or severe, both feet."],
+        [20, "Severe, one foot: marked deformity, pain on manipulation and use, swelling on use, characteristic callosities"],
+        [10, "Moderate: weight-bearing line over or inside the great toe, inward bowing of the Achilles tendon, pain on manipulation and use of the feet"],
+        [0, "Mild: symptoms relieved by a built-up shoe or arch support"]]},
+      {"dc": "5278", "name": "Claw foot (pes cavus), acquired", "levels": [
+        [50, "Marked, both feet: marked contraction of the plantar fascia with dropped forefoot, all toes hammer toes, very painful callosities, marked varus deformity"],
+        [30, "Marked, one foot. Or less marked, both feet: all toes tending to dorsiflexion, limited ankle dorsiflexion, shortened plantar fascia, marked tenderness under the metatarsal heads"],
+        [20, "Less marked, one foot"],
+        [10, "Great toe dorsiflexed, some limit of ankle dorsiflexion, definite tenderness under the metatarsal heads (either side)"],
+        [0, "Slight"]]},
+      {"dc": "5279", "name": "Metatarsalgia (Morton's disease), one or both feet", "levels": [[10, "Any case that fits the diagnosis"]]},
+      {"dc": "5282", "name": "Hammer toe", "levels": [[10, "All toes, one foot, without claw foot"], [0, "Single toes"]]}
+    ]},
+    {"group": "Ankle", "items": [
+      {"dc": "5271", "name": "Ankle, limited motion", "levels": [
+        [20, "Marked: less than 5 degrees of dorsiflexion, or less than 10 degrees of plantar flexion"],
+        [10, "Moderate: less than 15 degrees of dorsiflexion, or less than 30 degrees of plantar flexion"]]},
+      {"dc": "5270", "name": "Ankle, ankylosis (joint fixed in place)", "levels": [
+        [40, "Plantar flexion more than 40 degrees, or dorsiflexion more than 10 degrees, or with abduction, adduction, inversion, or eversion deformity"],
+        [30, "Plantar flexion 30 to 40 degrees, or dorsiflexion 0 to 10 degrees"],
+        [20, "Plantar flexion less than 30 degrees"]]}
+    ]},
+    {"group": "Knee", "items": [
+      {"dc": "5257", "name": "Knee, instability or patellar instability", "levels": [
+        [30, "A complete ligament tear that is not repaired, or the repair failed, with lasting instability, and a medical provider prescribes both an assistive device (cane, crutch, walker) and bracing. Or a patellar condition with instability after surgical repair that needs a brace and either a cane or a walker."],
+        [20, "A brace and/or an assistive device prescribed for lasting instability after a sprain, partial tear, or repaired complete tear. Or an unrepaired or failed-repair complete tear with either a device or bracing. Or patellar instability after surgical repair that needs a brace, cane, or walker."],
+        [10, "Lasting instability from a sprain or tear, with no prescribed brace or device. Or patellar instability that needs no prescribed brace, cane, or walker."]]},
+      {"dc": "5260", "name": "Knee, limited bending (flexion)", "levels": [
+        [30, "Flexion limited to 15 degrees"], [20, "Flexion limited to 30 degrees"], [10, "Flexion limited to 45 degrees"], [0, "Flexion limited to 60 degrees"]]},
+      {"dc": "5261", "name": "Knee, limited straightening (extension)", "levels": [
+        [50, "Extension limited to 45 degrees"], [40, "Limited to 30 degrees"], [30, "Limited to 20 degrees"], [20, "Limited to 15 degrees"], [10, "Limited to 10 degrees"], [0, "Limited to 5 degrees"]]}
+    ]},
+    {"group": "Back and neck", "items": [
+      {"dc": "5235 to 5243", "name": "Spine (general formula)", "levels": [
+        [100, "Unfavorable ankylosis of the entire spine"],
+        [50, "Unfavorable ankylosis of the entire thoracolumbar (low and mid back) spine"],
+        [40, "Thoracolumbar forward bending of 30 degrees or less, or favorable ankylosis of it, or unfavorable ankylosis of the entire neck"],
+        [30, "Neck forward bending of 15 degrees or less, or favorable ankylosis of the entire neck"],
+        [20, "Thoracolumbar forward bending over 30 and up to 60 degrees; or neck forward bending over 15 and up to 30 degrees; or combined thoracolumbar motion of 120 degrees or less; or combined neck motion of 170 degrees or less; or muscle spasm or guarding that causes an abnormal gait or spinal contour"],
+        [10, "Thoracolumbar forward bending over 60 and up to 85 degrees; or neck forward bending over 30 and up to 40 degrees; or combined thoracolumbar motion over 120 and up to 235 degrees; or combined neck motion over 170 and up to 335 degrees; or muscle spasm, guarding, or local tenderness without abnormal gait or contour; or a vertebra compressed by half or more"]],
+        "note": "Normal thoracolumbar forward bending is 90 degrees, and normal combined motion is 240 degrees. For the neck, normal forward bending is 45 degrees and normal combined motion is 340 degrees. VA rates nerve problems, such as bowel or bladder loss, separately. VA rates the low back and the neck separately."}
+    ]},
+    {"group": "Arthritis", "items": [
+      {"dc": "5003", "name": "Degenerative arthritis (shown by X-ray)", "levels": [
+        [20, "No limited motion, but X-ray shows 2 or more major joints (or 2 or more groups of minor joints) involved, with occasional incapacitating flare-ups"],
+        [10, "Limited motion that rates 0 under the joint's own code, for each major joint or group of minor joints (confirmed by swelling, muscle spasm, or painful motion). Or, with no limited motion, X-ray shows 2 or more major joints or minor-joint groups involved."]],
+        "note": "VA rates arthritis by limited motion of the joint first, under that joint's own code."}
+    ]}
+  ]
+}

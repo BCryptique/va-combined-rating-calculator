@@ -1,0 +1,23 @@
+{
+  "effective": "December 1, 2025",
+  "source": "https://www.va.gov/disability/compensation-rates/veteran-rates/",
+  "read": "November 12, 2026 (page last updated November 2, 2026)",
+  "statuses": {
+    "alone": "Just me (no spouse, children, or parents)",
+    "spouse": "Me and my spouse",
+    "child": "Me and 1 child (no spouse)",
+    "spouse_child": "Me, my spouse, and 1 child"
+  },
+  "rates": {
+    "10": {"alone": 180.42, "spouse": 180.42, "child": 180.42, "spouse_child": 180.42},
+    "20": {"alone": 356.66, "spouse": 356.66, "child": 356.66, "spouse_child": 356.66},
+    "30": {"alone": 552.47, "spouse": 617.47, "child": 596.47, "spouse_child": 666.47},
+    "40": {"alone": 795.84, "spouse": 882.84, "child": 853.84, "spouse_child": 947.84},
+    "50": {"alone": 1132.90, "spouse": 1241.90, "child": 1205.90, "spouse_child": 1322.90},
+    "60": {"alone": 1435.02, "spouse": 1566.02, "child": 1523.02, "spouse_child": 1663.02},
+    "70": {"alone": 1808.45, "spouse": 1961.45, "child": 1910.45, "spouse_child": 2074.45},
+    "80": {"alone": 2102.15, "spouse": 2277.15, "child": 2219.15, "spouse_child": 2406.15},
+    "90": {"alone": 2362.30, "spouse": 2559.30, "child": 2494.30, "spouse_child": 2704.30},
+    "100": {"alone": 3938.58, "spouse": 4158.17, "child": 4085.43, "spouse_child": 4318.99}
+  }
+}
